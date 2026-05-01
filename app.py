@@ -1,14 +1,3 @@
-"""
-Personal Knowledge Base Q&A Agent — RAG Architecture
-=====================================================
-启动方式:
-    1. pip install -r requirements.txt
-    2. python app.py
-    3. 浏览器打开 http://localhost:8000
-    4. 在设置中填入 OpenAI API Key
-    5. 上传文档 → 开始提问
-"""
-
 import os
 import uuid
 import time
